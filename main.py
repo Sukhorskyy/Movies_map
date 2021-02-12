@@ -1,5 +1,5 @@
 '''
-GitHub address:
+GitHub address: https://github.com/Sukhorskyy/Movies_map
 
 Module create a map of movies made in the user area
 Also it requires from user to input the year of film making
